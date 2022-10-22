@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    border-radius: 8px;
+    background-color: #333333;
+    padding: 0px 12px;
+
+    margin: 5px 0px;
+
+    div{
+        display: flex;
+        span{
+            p{
+                color : #F2F2F2
+            }
+        }
+    }
+
+}
+
+
+.button{
+    background-color: inherit;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+    
+}
+
+
+.descTaskContent{
+    width: 80%;
+}
